@@ -14,9 +14,8 @@
 11. 後端技術: Node JS(學習中), Express(學習中)
 12. 資料庫：尚無
 13. 其他資源: 
-  - Swiper
-  - Sweet Alert
-  - Google fonts
-  - Font Awsome
+  - Swiper, Sweet Alert
+  - Google fonts, Font Awsome
   - Lodash.js
+  - tween.js
   - Animate.css
