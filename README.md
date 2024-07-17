@@ -13,4 +13,10 @@
 10. 測試工具: Jest(知道)
 11. 後端技術: Node JS(學習中), Express(學習中)
 12. 資料庫：尚無
-13. 其他資源: Swiper, Sweet Alert, Google fonts, Font Awsome
+13. 其他資源: 
+  - Swiper
+  - Sweet Alert
+  - Google fonts
+  - Font Awsome
+  - Loadash.js
+  - Animate.css
