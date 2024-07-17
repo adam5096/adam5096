@@ -18,5 +18,5 @@
   - Sweet Alert
   - Google fonts
   - Font Awsome
-  - Loadash.js
+  - Lodash.js
   - Animate.css
