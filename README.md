@@ -18,4 +18,3 @@
 9. 程式碼品質規範: ESlint, Prettier
 10. 其他資源: 
   - Google fonts, Font Awsome
-  - Lodash.js
